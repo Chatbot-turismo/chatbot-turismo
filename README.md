@@ -1,19 +1,36 @@
 # chatbot-turismo
 
 ## Descrição
-dominío: turismo
-tipo: chat bot
+O Chatbot Cariri é um assistente virtual desenvolvido em Python com o objetivo de divulgar e responder dúvidas sobre os principais pontos turísticos da região do Cariri, no Ceará.
 
-## 👨‍💻Tecnologias
-- Python
+Ele utiliza uma base de conhecimento em JSON, permite personalização de respostas através de diferentes personalidades (formal, regional e rude) e registra o histórico de interações em arquivos de texto. Além disso, o chatbot aprende novas respostas fornecidas pelo usuário, tornando-se cada vez mais inteligente e completo.
 
-## Estrutura de arquivos e pastas
-`` 
-bash
-chatbot-turismo
-``
+---
 
-## Equipe
+## ⚙️Tecnologias
+-[ Python](https://www.python.org/)
+
+---
+
+## 📂 Estrutura de arquivos e pastas
+```
+
+chatbot-cariri/
+│── data/
+│── src/
+│   ├── main.py  
+└── README.md
+```
+---
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Chatbot-turismo/chatbot-turismo.git
+   cd chatbot-turismo
+   ```
+
+---
+## 👨‍💻 Equipe
 - Francisco Vitor
 - Henrique Coimbra
 - Malaquias Oliveira
