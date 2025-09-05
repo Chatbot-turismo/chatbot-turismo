@@ -8,19 +8,19 @@ Ele utiliza uma base de conhecimento em JSON, permite personalização de respos
 ---
 
 ## ⚙️Tecnologias
--[ Python](https://www.python.org/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 📂 Estrutura de arquivos e pastas
-```
-
+<pre>
 chatbot-cariri/
 │── data/
 │── src/
 │   ├── main.py  
 └── README.md
-```
+</pre>
 ---
 
 1. Clone o repositório:
